@@ -1,15 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package mortalkombatbversion;
+package mephi.Sem2Java5;
 
-
-
-/**
- *
- * @author Мария
- */
 public class BarakaFabric implements EnemyFabricInterface {
 
     @Override
